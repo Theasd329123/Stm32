@@ -21,7 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-#define AUDIO_BUFF_SIZE 121 //-----------------------------------------------------------------------------Aqui
+#define AUDIO_BUFF_SIZE 120 //-----------------------------------------------------------------------------Aqui
 static volatile uint32_t pAudBuf[AUDIO_BUFF_SIZE];
 static volatile uint8_t audio_out_buffer[AUDIO_BUFF_SIZE*3];
 
