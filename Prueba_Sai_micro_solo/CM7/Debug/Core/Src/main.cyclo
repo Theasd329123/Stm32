@@ -1,0 +1,11 @@
+../../Drivers/CMSIS/Include/core_cm7.h:2660:26:ITM_SendChar	4
+../Core/Src/main.c:90:5:main	9
+../Core/Src/main.c:183:6:SystemClock_Config	4
+../Core/Src/main.c:242:13:MX_SAI1_Init	2
+../Core/Src/main.c:292:13:MX_DMA_Init	1
+../Core/Src/main.c:310:13:MX_GPIO_Init	1
+../Core/Src/main.c:335:6:HAL_SAI_RxHalfCpltCallback	2
+../Core/Src/main.c:344:8:HAL_SAI_RxCpltCallback	2
+../Core/Src/main.c:353:8:ProcessAudioBytes	3
+../Core/Src/main.c:375:5:_write	2
+../Core/Src/main.c:390:6:Error_Handler	1
